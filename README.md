@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**chaudharynabin6/chaudharynabin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top projects
+
+
+
+<a href="https://github.com/chaudharynabin6/android-fitness-app-improved">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=android-fitness-app-improved" />
+</a>
+
+<a href="https://github.com/chaudharynabin6/android-stock-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=android-stock-app" />
+</a>
+
+<a href="https://github.com/chaudharynabin6/twittterai-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=twittterai-frontend" />
+</a>
+
+<a href="https://github.com/chaudharynabin6/twitter-ai-backend-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=twitter-ai-backend-api" />
+</a>
+
+
+---------------------  
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharynabin6&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+------------------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharynabin6&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+--------------------------
