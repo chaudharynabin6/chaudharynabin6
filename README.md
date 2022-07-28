@@ -13,6 +13,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=android-stock-app" />
 </a>
 
+<a href="https://github.com/chaudharynabin6/android-shoppingItem-app-with-test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=android-shoppingItem-app-with-test" />
+</a>
+
 <a href="https://github.com/chaudharynabin6/twittterai-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaudharynabin6&repo=twittterai-frontend" />
 </a>
